@@ -1,4 +1,4 @@
-#Practical Numerical Methods with Python
+#Practical Numerical Methods with Python with some nonsense
 
 This project started in 2014 as a multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. In its first run (Fall 2014), we had three sites participating:
 - [Lorena A. Barba](http://lorenabarba.com), George Washington University, USA
